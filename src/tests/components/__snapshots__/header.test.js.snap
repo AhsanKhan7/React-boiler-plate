@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should header run 1`] = `
+<header
+  className="header"
+>
+  <div
+    className="content_container"
+  >
+    <div
+      className="header_content"
+    >
+      <Link
+        className="header__title"
+        to="/dashboard"
+      >
+        <h1>
+          Boiler-plate
+        </h1>
+      </Link>
+      <button
+        className="button button--link"
+        onClick={[Function]}
+      >
+        Log out
+      </button>
+    </div>
+  </div>
+</header>
+`;
